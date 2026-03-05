@@ -3,8 +3,8 @@
 <div class="inicio">
   <div class="hero">
     <h1>⚕️ FisioRed</h1>
-    <p class="slogan">Tu recuperación es nuestra prioridad</p>
-    <p class="descripcion">Clínica de fisioterapia con los mejores profesionales</p>
+    <p class="slogan">¡Tu recuperación es nuestra prioridad</p>
+    <p class="descripcion">línica de fisioterapia con los mejores profesionales</p>
     <router-link to="/servicios" class="btn">Ver servicios</router-link>
   </div>
   
